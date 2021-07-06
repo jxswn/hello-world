@@ -12,3 +12,15 @@ edit a little bit
 *You **can** combine them* 
 
 http://github.com- automatic!
+
+1. One
+2. Two
+3. Three
+
+* Step 1
+* Step 2
+
+- P1
+- P2
+  - P2.1
+  - P2.2
