@@ -10,3 +10,5 @@ edit a little bit
 **bold**
 
 *You **can** combine them* 
+
+http://github.com- automatic!
