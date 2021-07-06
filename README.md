@@ -8,3 +8,5 @@ edit a little bit
 *this will be*
 
 **bold**
+
+*You **can** combine them* 
